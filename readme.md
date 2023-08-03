@@ -1,4 +1,3 @@
-```markdown
 # Simple Web Scraper
 
 This is a simple Python web scraper that extracts quotes and their authors from a given website. It uses the `requests` library to make HTTP requests and `BeautifulSoup` for parsing the HTML content.
